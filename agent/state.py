@@ -14,7 +14,7 @@ class AgentState(TypedDict):
     """
 
     # Message history - uses add_messages for proper accumulation
-    messages: Annotated[Sequence[BaseMessage], add_messages]
+    messages: Annotated[Sequence[BaseMessage]\, add_messages]
 
     # Original query
     user_query: str
