@@ -13,3 +13,6 @@ wheels/
 prd.md
 CLAUDE.md
 project.md
+
+example
+agent/.env

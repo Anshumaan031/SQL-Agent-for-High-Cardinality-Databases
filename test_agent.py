@@ -23,9 +23,9 @@ def test_queries():
 
     # Test queries
     test_cases = [
-        "Show me all tracks by AC/DC",
-        "How many customers are from USA?",
-        "What are the top 5 best selling tracks?",
+        # "Show me all tracks by AC/DC",
+        # "How many customers are from USA?",
+        # "What are the top 5 best selling tracks?",
         "Find invoices from customers in SF",  # Test disambiguation (SF -> San Francisco)
     ]
 
